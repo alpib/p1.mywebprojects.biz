@@ -32,7 +32,7 @@ I would like to refresh/update and learn new skills, possibly go back to work.  
   <li><h4>The code editor I am using:</h4>
   	<a href="http://www.sublimetext.com">Sublime Text</a></li>
   <li><h4>HTML 5 Validation:</h4>
-  	<a href="http://validator.w3.org/check?uri=www.p1.mywebprojects.biz%2Findex.php&charset=%28detect+automatically%29&doctype=Inline&group=0">My Page Validates</a></li>
+  	<a href="http://validator.w3.org/check?uri=www.p1.mywebprojects.biz%2Findex.php">My Page Validates</a></li>
 </ul>
 
 <p>
